@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Jyoti%20Prakash%20Swain&fontSize=48&fontColor=D8B4FE&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20Engineering%20%7C%20AI%20%26%20Multi-Agent%20Systems&descAlignY=58&descSize=18&descColor=A78BFA" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Backend+Systems;Multi-Agent+Orchestration+Engineer;LLM+Integration+%26+NLP+Pipelines;4x+Hackathon+Winner+%F0%9F%8F%86;Full+Stack+%7C+Python+%7C+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Backend+Systems;Multi-Agent+Orchestration+Engineer;LLM+Integration+%26+NLP+Pipelines;6x+Hackathon+Winner+%F0%9F%8F%86;Full+Stack+%7C+Python+%7C+FastAPI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -280,6 +280,8 @@ Building **Doctor Copilot**, an AI-powered medical assistant platform that accep
 | 🥇 **Winner — IIT Bhubaneswar Pravaah Web Hackathon 2026** | Built Orbitra, a real-time NEO monitoring platform with 3D visualization, beating all competing university teams |
 | 🥇 **Winner — BPUT Hackathon 2025** | Delivered an innovative backend solution under pressure, showcasing system design thinking |
 | 🥇 **Winner — Brainlogic UI Hackathon 2024** | Recognised for exceptional UI/UX design and visually compelling responsive layouts |
+| 🥇 **Hackathon Winner** | Model Training & Building — recognised for building and training a custom ML model under competitive time constraints |
+| 🥇 **Hackathon Winner** | Agentic Workflow Building — recognised for designing and building an autonomous agentic workflow system |
 
 </div>
 
@@ -332,7 +334,7 @@ Building **Doctor Copilot**, an AI-powered medical assistant platform that accep
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jyoti0525/Jyoti0525/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Jyoti0525/Jyoti0525/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
