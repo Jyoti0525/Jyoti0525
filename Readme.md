@@ -115,7 +115,7 @@ I care about systems that hold up under real-world load: clean modular codebases
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🛡️ PRAHARI — Continuous Behavioral Authentication SDK & Risk Scoring API</b> 🏆 <i>Top 30 — Cyber Security PSBs Hackathon Series 2026 (DFS/IBA/Central Bank of India, MNNIT Allahabad)</i></summary>
+<summary><b>🛡️ PRAHARI — Continuous Behavioral Authentication SDK & Risk Scoring API</b> 🏆 <i>Top 10 — Cyber Security PSBs Hackathon Series 2026 (DFS/IBA/Central Bank of India, MNNIT Allahabad)</i></summary>
 <br/>
 
 A continuous behavioral authentication SDK and scoring API built for digital banking security, shortlisted to the **top 30 teams** in the National Hackathon on Cyber Security 2026 hosted at MNNIT Allahabad, backed by the Department of Financial Services, Indian Banks' Association, and Central Bank of India.
@@ -295,7 +295,7 @@ Building **Doctor Copilot**, an AI-powered medical assistant platform that accep
 
 | Recognition | Details |
 |---|---|
-| 🛡️ **Top 30 — Cyber Security PSBs Hackathon Series 2026** | Shortlisted nationally for PRAHARI, a continuous behavioral authentication SDK, hosted at MNNIT Allahabad by DFS/IBA/Central Bank of India |
+| 🛡️ **Top 10 — Cyber Security PSBs Hackathon Series 2026** | Shortlisted nationally for PRAHARI, a continuous behavioral authentication SDK, hosted at MNNIT Allahabad by DFS/IBA/Central Bank of India |
 | 🥇 **Winner — IEEE HackSagon 2026** | Recognised for innovative AI-driven technical solution among top engineering participants |
 | 🥇 **Winner — IIT Bhubaneswar Pravaah Web Hackathon 2026** | Built Orbitra, a real-time NEO monitoring platform with 3D visualization, beating all competing university teams |
 | 🥇 **Winner — BPUT Hackathon 2025** | Delivered an innovative backend solution under pressure, showcasing system design thinking |
