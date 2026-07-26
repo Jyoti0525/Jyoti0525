@@ -295,7 +295,7 @@ Building **Doctor Copilot**, an AI-powered medical assistant platform that accep
 
 | Recognition | Details |
 |---|---|
-| 🛡️ **Top 30 — Cyber Security PSBs Hackathon Series 2026** | Shortlisted nationally for PRAHARI, a continuous behavioral authentication SDK, hosted at MNNIT Allahabad by DFS/IBA/Central Bank of India |
+| 🛡️ **Top 10 — Cyber Security PSBs Hackathon Series 2026** | Shortlisted nationally for PRAHARI, a continuous behavioral authentication SDK, hosted at MNNIT Allahabad by DFS/IBA/Central Bank of India |
 | 🥇 **Winner — IEEE HackSagon 2026** | Recognised for innovative AI-driven technical solution among top engineering participants |
 | 🥇 **Winner — IIT Bhubaneswar Pravaah Web Hackathon 2026** | Built Orbitra, a real-time NEO monitoring platform with 3D visualization, beating all competing university teams |
 | 🥇 **Winner — BPUT Hackathon 2025** | Delivered an innovative backend solution under pressure, showcasing system design thinking |
