@@ -114,6 +114,25 @@ I care about systems that hold up under real-world load: clean modular codebases
 
 ## 🚀 Featured Projects
 
+<details open>
+<summary><b>🛡️ PRAHARI — Continuous Behavioral Authentication SDK & Risk Scoring API</b> 🏆 <i>Top 30 — Cyber Security PSBs Hackathon Series 2026 (DFS/IBA/Central Bank of India, MNNIT Allahabad)</i></summary>
+<br/>
+
+A continuous behavioral authentication SDK and scoring API built for digital banking security, shortlisted to the **top 30 teams** in the National Hackathon on Cyber Security 2026 hosted at MNNIT Allahabad, backed by the Department of Financial Services, Indian Banks' Association, and Central Bank of India.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, FastAPI, scikit-learn, Vanilla JS SDK, Streaming Anomaly Detection |
+| **Scale** | 4-module weighted fusion architecture across live banking session data |
+| **Performance** | Deterministic scoring engine with real-time streaming anomaly detection |
+| **Security** | Four decision outputs — ALLOW / MONITOR / STEP_UP / BLOCK_OR_HOLD |
+| **Impact** | Shortlisted Top 30 among national PSB hackathon teams; built on real CBI-provided INB & UPI transaction datasets |
+| **Repository** | [Live Demo](https://prahari-web.onrender.com/) · [GitHub Repo](https://github.com/Jyoti0525/Cbi_mnnit_hackathon_2026) |
+
+PRAHARI fuses signals across four independent modules — **Human Behavior**, **Environment**, **Journey**, and **Action Severity** — into a single deterministic risk score. Built using real CBI-provided Internet Banking request logs and UPI transaction history, the system was designed with a narrow, credible engineering scope rather than a vendor-pitch feature list, backed by a full technical documentation set and a 12-slide POC deck grounded directly in the GitHub repository.
+
+</details>
+
 <details>
 <summary><b>🏦 DISHA — AI-Powered Banking Self-Service Platform</b></summary>
 <br/>
@@ -276,6 +295,7 @@ Building **Doctor Copilot**, an AI-powered medical assistant platform that accep
 
 | Recognition | Details |
 |---|---|
+| 🛡️ **Top 30 — Cyber Security PSBs Hackathon Series 2026** | Shortlisted nationally for PRAHARI, a continuous behavioral authentication SDK, hosted at MNNIT Allahabad by DFS/IBA/Central Bank of India |
 | 🥇 **Winner — IEEE HackSagon 2026** | Recognised for innovative AI-driven technical solution among top engineering participants |
 | 🥇 **Winner — IIT Bhubaneswar Pravaah Web Hackathon 2026** | Built Orbitra, a real-time NEO monitoring platform with 3D visualization, beating all competing university teams |
 | 🥇 **Winner — BPUT Hackathon 2025** | Delivered an innovative backend solution under pressure, showcasing system design thinking |
